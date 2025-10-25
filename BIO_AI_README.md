@@ -75,4 +75,4 @@ The Baby Dragon Hatchling ponders the concept of Neural Networks and offers this
 
 ---
 
-*Created by [Your Name] as part of the BDH model exploration project*
+*Created by Ela Mereanu as part of the BDH model exploration project*
